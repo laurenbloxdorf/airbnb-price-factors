@@ -1,4 +1,4 @@
-# airbnb-price-factors
+# Airbnb Price Factors
 Analyzes Airbnb listings in New York City to understand which features most strongly influence listing prices
 
 ## Key Insights from Model Feature Importance
